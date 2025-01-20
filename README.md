@@ -75,5 +75,4 @@ Pour toute information complémentaire, veuillez contacter l'équipe projet.
 
 ---
 
-![Logo Tunisair](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tunisair_logo.svg/2560px-Tunisair_logo.svg.png)
 
